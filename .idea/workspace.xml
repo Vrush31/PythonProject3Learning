@@ -46,8 +46,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab03.executor": "Run",
+    "Python.Lab04.executor": "Run",
+    "Python.Lab06.executor": "Run",
     "Python.Lab1.executor": "Run",
     "Python.Lab2.executor": "Run",
+    "Python.lab07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -101,12 +104,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743931004723</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Apil 6 all">
+      <option name="closed" value="true" />
+      <created>1743935176904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743935176904</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Apil 6 all 1">
+      <option name="closed" value="true" />
+      <created>1743935223252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743935223252</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Apil7 all 1">
+      <option name="closed" value="true" />
+      <created>1744048882546</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744048882546</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AddingLab2 file" />
     <MESSAGE value="AddingLab2 file 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="AddingLab2 file 2" />
+    <MESSAGE value="Apil 6 all" />
+    <MESSAGE value="Apil 6 all 1" />
+    <MESSAGE value="Apil7 all 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apil7 all 1" />
   </component>
 </project>
