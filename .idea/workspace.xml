@@ -52,6 +52,10 @@
     "Python.Lab09.executor": "Run",
     "Python.Lab1.executor": "Run",
     "Python.Lab10.executor": "Run",
+    "Python.Lab11.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab13.executor": "Run",
+    "Python.Lab14.executor": "Run",
     "Python.Lab2.executor": "Run",
     "Python.lab07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -147,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744137361672</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Apil 8">
+      <option name="closed" value="true" />
+      <created>1744137486645</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744137486645</updated>
+    </task>
+    <task id="LOCAL-00010" summary="9 april">
+      <option name="closed" value="true" />
+      <created>1744221949581</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744221949581</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +178,7 @@
     <MESSAGE value="Apil7 all 1" />
     <MESSAGE value="Apil7 all" />
     <MESSAGE value="Apil 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apil 8" />
+    <MESSAGE value="9 april" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 april" />
   </component>
 </project>
